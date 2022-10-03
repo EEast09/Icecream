@@ -1,0 +1,29 @@
+
+.votes{
+    display: flex; 
+    margin-top: -530px;
+    float: right;
+  
+      
+}
+
+.chocolate-bar{
+    width: 100px ;
+    height: 40px;
+    border: solid 1px brown;
+    background-color: brown;
+}
+
+.vanilla-bar{
+    width: 100px ;
+    height: 40px;
+    border: solid 1px wheat;
+    background-color: wheat;
+}
+
+.strawberry-bar{
+    width: 100px ;
+    height: 40px;
+    border: solid 1px pink;
+    background-color: pink;
+}

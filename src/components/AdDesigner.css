@@ -1,0 +1,51 @@
+
+
+.ad-container{
+    width: 300px;
+    height: 200px;
+    border: solid 1px #222;
+    text-align: center;
+    box-shadow: 2px 3px 5px 5px
+}
+
+.AdDesigner{
+    margin:30px;
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    
+
+}
+.flavor{
+    font-family: 'Caveat', cursive;
+    font-size: 40px
+}
+
+p{
+    font-weight: 600;
+}
+
+button{
+    margin-right: 25px;
+    background-color: #0e3c7e;
+    border-radius: 4px;
+
+
+}
+button:hover{
+    background-color: gray;
+    color: white
+    
+}
+
+.light-blue{
+    
+    background-color: lightblue;
+    color: white
+    
+}
+
+.dark{
+    background-color: gray;
+}
